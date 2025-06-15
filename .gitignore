@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Compiled files
+*.exe
+*.out
+*.app
+
+# FFmpeg or uploaded/generated files
+uploads/
+thumbnails/
+videos/
+
+# PyInstaller
+*.spec
+
+# Celery logs and worker-related files
+celerybeat-schedule
+*.pid
+
+# MongoDB dump files
+dump/

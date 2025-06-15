@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+celery
+redis
+python-multipart
+ffmpeg-python
